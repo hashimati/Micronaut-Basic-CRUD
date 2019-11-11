@@ -1,0 +1,1 @@
+mn create-app io-hashimati-basiccrud --profile service --lang java --build gradle--features mongo-reactive
