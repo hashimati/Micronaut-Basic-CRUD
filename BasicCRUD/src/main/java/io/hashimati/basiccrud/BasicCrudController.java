@@ -83,7 +83,7 @@ public class BasicCrudController {
             System.out.println("The file is delivered"); 
         })
         .doOnError(x->{
-            System.out.println("Someting is going wrong"); 
+            System.out.println("Something is going wrong"); 
         })
         .doFinally(new Action(){
             @Override
